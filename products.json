@@ -1,0 +1,710 @@
+[{
+  "_id": {
+    "$oid": "63a2d067cf9a9d4dbc666e15"
+  },
+  "rating": 4,
+  "numReviews": 2,
+  "price": 50,
+  "countInStock": 4,
+  "name": "Ackley Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671614697756.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "63a47bd2d6723c42a82db2e9"
+      },
+      "name": "John Doe",
+      "rating": 5,
+      "comment": "Excellent suit",
+      "user": {
+        "$oid": "63a08a57b2688f2278b2f024"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1671723986481"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1671723986481"
+        }
+      }
+    },
+    {
+      "_id": {
+        "$oid": "63a6fe68e050910ee42f060a"
+      },
+      "name": "Admin User",
+      "rating": 3,
+      "comment": "very good",
+      "user": {
+        "$oid": "63a08a57b2688f2278b2f023"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1671888488572"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1671888488572"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671614567116"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671888488573"
+    }
+  },
+  "__v": 2
+},{
+  "_id": {
+    "$oid": "63a2d152cf9a9d4dbc666e17"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 60,
+  "countInStock": 3,
+  "name": "Aluminum Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671614842357.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "Two piece suit",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671614802789"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671614869495"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a2d198cf9a9d4dbc666e18"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 40,
+  "countInStock": 1,
+  "name": "Anadorn Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671614893110.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671614872993"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671614917298"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a446d26c3aa45c781b9d54"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 30,
+  "countInStock": 1,
+  "name": "Barium Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710490302.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710418572"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671710580100"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a4473d6c3aa45c781b9d55"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 80,
+  "countInStock": 0,
+  "name": "Clementine Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710549379.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710525018"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671710572502"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a447786c3aa45c781b9d56"
+  },
+  "rating": 4,
+  "numReviews": 1,
+  "price": 40,
+  "countInStock": 5,
+  "name": "Cloghan Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710604392.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [
+    {
+      "_id": {
+        "$oid": "63a8556b7871412c78f2f131"
+      },
+      "name": "John Doe",
+      "rating": 4,
+      "comment": "Nice suit\n",
+      "user": {
+        "$oid": "63a08a57b2688f2278b2f024"
+      },
+      "createdAt": {
+        "$date": {
+          "$numberLong": "1671976299824"
+        }
+      },
+      "updatedAt": {
+        "$date": {
+          "$numberLong": "1671976299824"
+        }
+      }
+    }
+  ],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710584964"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671976299825"
+    }
+  },
+  "__v": 1
+},{
+  "_id": {
+    "$oid": "63a447ad6c3aa45c781b9d57"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 30,
+  "countInStock": 1,
+  "name": "Copper Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710661328.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710637636"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671710677493"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a447d86c3aa45c781b9d58"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 60,
+  "countInStock": 3,
+  "name": "Iridium Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710706724.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710680776"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671710739074"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a448156c3aa45c781b9d59"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 50,
+  "countInStock": 4,
+  "name": "Iron Two Piece Suit ",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710766741.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710741535"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671710797661"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a448516c3aa45c781b9d5a"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 30,
+  "countInStock": 2,
+  "name": "Jude Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710823785.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710801232"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671710842742"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a4487c6c3aa45c781b9d5b"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 40,
+  "countInStock": 3,
+  "name": "Kilmogue Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710867422.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710844859"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671710883648"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a448d26c3aa45c781b9d5c"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 50,
+  "countInStock": 1,
+  "name": "Lead Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710945695.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710930776"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671710964015"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a448f76c3aa45c781b9d5d"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 70,
+  "countInStock": 1,
+  "name": "Léonie Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671710988860.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671710967257"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671711008264"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a449236c3aa45c781b9d5e"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 70,
+  "countInStock": 4,
+  "name": "Majorelle Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671711031560.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671711011012"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671711046210"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a449486c3aa45c781b9d5f"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 50,
+  "countInStock": 3,
+  "name": "Maze Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671711067774.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671711048308"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671711117539"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a4498f6c3aa45c781b9d60"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 90,
+  "countInStock": 5,
+  "name": "Meronym Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671711138045.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671711119529"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671711175995"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a449ca6c3aa45c781b9d61"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 40,
+  "countInStock": 2,
+  "name": "Renan Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671711201338.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671711178859"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671711224412"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a449fb6c3aa45c781b9d62"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 90,
+  "countInStock": 2,
+  "name": "Theophilus Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671711251258.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671711227246"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671711298696"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a44a4b6c3aa45c781b9d63"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 80,
+  "countInStock": 1,
+  "name": "Tungestin Three Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671711320652.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671711307064"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671711342138"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a44a746c3aa45c781b9d64"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 60,
+  "countInStock": 0,
+  "name": "Venerdi Two Piece Suit",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/uploads\\image-1671711357737.png",
+  "brand": "Cambridge",
+  "category": "Suit",
+  "description": "lorem ipsum",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671711348338"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671711377969"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a8374fcad880557c5b78b2"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 0,
+  "countInStock": 0,
+  "name": "Sample name",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/images/sample.jpg",
+  "brand": "Sample brand",
+  "category": "Sample category",
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671968591475"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671968591475"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a8379b04b61814dc667638"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 0,
+  "countInStock": 1,
+  "name": "Product Name",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/pathToImage/sample.jpg",
+  "brand": "Brand Name",
+  "category": "Name of category",
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671968667927"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671968667927"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63a857ba7871412c78f2f137"
+  },
+  "rating": 0,
+  "numReviews": 0,
+  "price": 0,
+  "countInStock": 1,
+  "name": "Product Name",
+  "user": {
+    "$oid": "63a08a57b2688f2278b2f023"
+  },
+  "image": "/pathToImage/sample.jpg",
+  "brand": "Brand Name",
+  "category": "Name of category",
+  "description": "Sample description",
+  "reviews": [],
+  "createdAt": {
+    "$date": {
+      "$numberLong": "1671976890200"
+    }
+  },
+  "updatedAt": {
+    "$date": {
+      "$numberLong": "1671976890200"
+    }
+  },
+  "__v": 0
+}]
